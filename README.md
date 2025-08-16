@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Willians and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Willians and I'm a Eletrônica e  Tecnologia....</h2>
 
 ###
 
